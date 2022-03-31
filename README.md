@@ -1,0 +1,2 @@
+# PRO-C73-E-RIDE-STAGE-6
+Your friend Vihaan has come across a situation where the same user is unlocking multiple bikes at the same time. He also noticed a case where the user who returned the bike was different from the one who was assigned that bikeID.  You need to modify the app code to refrain users from doing it. Vihaan thus wants to update the app to run eligibility checks on users as well as bikes.
